@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <a href="https://www.linkedin.com/in/harshinivannikkarasan/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/roxiomontes">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roxiomontes&theme=material-palenight" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshinivanni&theme=material-palenight" />
 </a><br>
 <a href="https://github.com/roxiomontes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roxiomontes&show_icons=true&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshinivanni&show_icons=true&theme=material-palenight" />
 </a><br>
 <a href="https://github.com/roxiomontes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxiomontes&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshinivanni&layout=compact&theme=material-palenight" />
 </a><br>
