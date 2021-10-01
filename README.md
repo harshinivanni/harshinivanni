@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<!--
+# Hi I am Harshini
+A brief description of what this project does and who it's for
+
+
+
 **harshinivanni/harshinivanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
