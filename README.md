@@ -1,5 +1,5 @@
 
-<h1 align="center"><img align = "centre" src="https://github.com/harshinivanni/harshinivanni/blob/main/giphy.gif"/></h1>
+<h1 align="center"><img src="https://github.com/harshinivanni/harshinivanni/blob/main/giphy.gif"></h1>
 
 # Hi I am Harshini
 A brief description of what this project does and who it's for
