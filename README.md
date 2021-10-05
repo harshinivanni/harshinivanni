@@ -8,11 +8,14 @@ A brief description of what this project does and who it's for
 -   👩🏾‍🎓 I'm currently a Computer Science Graduate student at Louisiana State University 
 -  🧪 Im interested in Full Stack Development and leaning new technologies.
 -  ✨ I like to read books escpecially classical ones. A big Harry Potter Fan 🪄
+
+
 ### 🔭 I’m currently working on ...
-<img align="right" src="https://github.com/harshinivanni/harshinivanni/blob/main/giphy%20(1).gif">
+
+<img align="right" src="https://github.com/harshinivanni/harshinivanni/blob/main/giphy%20(1).gif" width="50%" height="50%">
 
 - Practicing Leetcode and my final year Master's Project 🧠🤯
-- Contributing to Open-Source .
+- Contributing to Open-Source 📂 📩
 
 
 ### How to reach me 📢
