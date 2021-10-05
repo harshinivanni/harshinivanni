@@ -6,7 +6,7 @@ A brief description of what this project does and who it's for
 
 
 -   👩🏾‍🎓 I'm currently a Computer Science Graduate student at Louisiana State University 
--  🧪 Im interested in Full Stack Development and leaning new technologies.
+-  🧪 Im interested in Full Stack Development and learning new technologies.
 -  ✨ I like to read books escpecially classical ones. A big Harry Potter Fan 🪄
 
 
