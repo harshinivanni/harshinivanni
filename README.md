@@ -13,7 +13,7 @@
 
 <img align="right" src="https://github.com/harshinivanni/harshinivanni/blob/main/giphy%20(1).gif" width="173" height="206.5">
 
-- My final year Master's Project 🧠🤯
+- Contributing to AnitaB.org website :desktop_computer:	:keyboard:	
 - Practicing programming questions in Leetcode 💻
 - Contributing to Open-Source which I learnt from vGHC 2021 📂 📩
 
