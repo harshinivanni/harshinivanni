@@ -15,7 +15,7 @@
 
 - Contributing to AnitaB.org website :desktop_computer:	:keyboard:	
 - Practicing programming questions in Leetcode 💻
-- Contributing to Open-Source which I learnt from vGHC 2021 📂 📩
+- Contributing to Open-Source ❤ which I learnt from vGHC 2021 📂 📩
 
 
 ### How to reach me 📢
